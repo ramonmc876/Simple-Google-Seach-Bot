@@ -1,2 +1,2 @@
 # Simple-Google-Seach-Bot
-Takes any use raw input and produces search results from google.com
+Takes any user raw input and produces search results from google.com
